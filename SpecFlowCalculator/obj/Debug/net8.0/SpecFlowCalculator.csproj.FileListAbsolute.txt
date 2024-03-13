@@ -1,0 +1,11 @@
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net8.0\SpecFlowCalculator.deps.json
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net8.0\SpecFlowCalculator.dll
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net8.0\SpecFlowCalculator.pdb
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.AssemblyInfo.cs
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.dll
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\refint\SpecFlowCalculator.dll
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\SpecFlowCalculator.pdb
+C:\astronworkspace\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net8.0\ref\SpecFlowCalculator.dll

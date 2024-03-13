@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9BbG4uGVWCgDPrGS3/nO71I+CGmfleHjoNUh7KRes/6owUB0C4ft1ututRtPgyE5cBQGT6Eum07T6N/OYQhmw==",
+  "success": true,
+  "projectFilePath": "C:\\astronworkspace\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehmet.kara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mehmet.kara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mehmet.kara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
